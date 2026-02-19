@@ -1,0 +1,152 @@
+[
+  {
+    "intent": "what_are_the_darshan_timings_at_velankanni_shrine",
+    "questions": [
+      "what are the darshan timings in velankanni",
+      "when can i visit velankanni church for darshan",
+      "velankanni shrine opening time",
+      "what time does velankanni basilica open",
+      "darshan schedule at our lady shrine velankanni",
+      "is velankanni church open all day",
+      "what are visiting hours of velankanni shrine",
+      "when does velankanni shrine close",
+      "pilgrim darshan timing in velankanni"
+    ],
+    "answer": "Velankanni Shrine is open daily for pilgrims from early morning till night. Darshan timings may extend during festivals and weekends."
+  },
+  {
+    "intent": "where_is_velankanni_shrine_located",
+    "questions": [
+      "where is velankanni shrine located",
+      "which district is velankanni church in",
+      "location of basilica of our lady of good health",
+      "how to find velankanni shrine",
+      "velankanni church address please",
+      "is velankanni near nagapattinam",
+      "where is our lady shrine in tamilnadu",
+      "velankanni basilica situated in which place",
+      "exact place of velankanni pilgrimage church"
+    ],
+    "answer": "Velankanni Shrine is located in Velankanni town, Nagapattinam district, Tamil Nadu, India, along the Bay of Bengal coast."
+  },
+  {
+    "intent": "how_to_reach_velankanni_by_train",
+    "questions": [
+      "how to reach velankanni by train",
+      "nearest railway station to velankanni church",
+      "train route to velankanni shrine",
+      "can i go to velankanni by rail",
+      "velankanni train connectivity details",
+      "which station is closest to basilica velankanni",
+      "train travel guide for velankanni pilgrimage",
+      "railway stop near velankanni shrine",
+      "how far is nagapattinam station from velankanni"
+    ],
+    "answer": "The nearest railway station to Velankanni is Nagapattinam. From there, buses and taxis are available to reach the shrine."
+  },
+  {
+    "intent": "how_to_reach_velankanni_by_bus",
+    "questions": [
+      "how to reach velankanni by bus",
+      "bus facility to velankanni church",
+      "are buses available to velankanni shrine",
+      "nearest bus stand to velankanni basilica",
+      "bus routes to velankanni pilgrimage",
+      "how can i travel to velankanni by road",
+      "velankanni bus timings from chennai",
+      "government bus available for velankanni",
+      "road transport options for velankanni shrine"
+    ],
+    "answer": "Velankanni is well connected by bus from Chennai, Trichy, Madurai, Nagapattinam and other cities. Regular buses operate daily."
+  },
+  {
+    "intent": "is_accommodation_available_near_velankanni_shrine",
+    "questions": [
+      "is accommodation available near velankanni church",
+      "where can pilgrims stay in velankanni",
+      "velankanni rest house details",
+      "does shrine provide rooms for visitors",
+      "lodging facilities in velankanni pilgrimage",
+      "hotels near velankanni basilica",
+      "can i book rooms in velankanni shrine",
+      "stay options close to our lady shrine",
+      "pilgrim accommodation at velankanni"
+    ],
+    "answer": "Yes, Velankanni has many guest houses, hotels, and shrine accommodations available for pilgrims, especially during festival seasons."
+  },
+  {
+    "intent": "what_is_the_candle_offering_area_in_velankanni",
+    "questions": [
+      "what is candle offering area in velankanni",
+      "where to light candles in velankanni church",
+      "candle prayer place in velankanni shrine",
+      "why do pilgrims offer candles in velankanni",
+      "candle offering significance in basilica",
+      "can i light candle inside velankanni shrine",
+      "velankanni candle prayer location",
+      "special candle service in velankanni church",
+      "how does candle offering work in velankanni"
+    ],
+    "answer": "The Candle Offering Area in Velankanni is a sacred place where pilgrims light candles as a symbol of prayer, hope, and thanksgiving."
+  },
+  {
+    "intent": "what_is_the_velankanni_beach_view_point",
+    "questions": [
+      "what is velankanni beach view point",
+      "is beach near velankanni church",
+      "can pilgrims visit velankanni beach",
+      "velankanni shrine beach location",
+      "how far is beach from basilica velankanni",
+      "velankanni coastal view spot",
+      "places to visit near velankanni shrine",
+      "is velankanni beach open for tourists",
+      "velankanni beach attraction details"
+    ],
+    "answer": "Velankanni Beach is located very close to the shrine and is a peaceful place for visitors to relax after pilgrimage and prayers."
+  },
+  {
+    "intent": "is_confession_available_at_velankanni_shrine",
+    "questions": [
+      "is confession available in velankanni church",
+      "can i meet priest for confession in velankanni",
+      "confession timings in velankanni basilica",
+      "does velankanni shrine provide confession service",
+      "where to confess in our lady shrine",
+      "is there a confession room in velankanni",
+      "confession facility for pilgrims velankanni",
+      "how to attend confession at velankanni",
+      "priest confession service in velankanni shrine"
+    ],
+    "answer": "Yes, confession services are available at Velankanni Shrine. Priests are present for spiritual guidance, especially during peak pilgrimage days."
+  },
+  {
+    "intent": "what_is_the_annai_velankanni_museum",
+    "questions": [
+      "what is annai velankanni museum",
+      "museum inside velankanni shrine campus",
+      "what can i see in velankanni museum",
+      "history exhibits in velankanni museum",
+      "is there a museum near basilica velankanni",
+      "annai museum visiting details",
+      "velankanni shrine museum information",
+      "does museum show shrine history",
+      "where is velankanni museum located"
+    ],
+    "answer": "Annai Velankanni Museum displays the history, offerings, and religious significance of the shrine, giving pilgrims a deeper cultural understanding."
+  },
+  {
+    "intent": "is_there_a_souvenir_shop_in_velankanni",
+    "questions": [
+      "is there a souvenir shop in velankanni",
+      "where can i buy gifts in velankanni shrine",
+      "religious items shop near basilica velankanni",
+      "velankanni souvenir store details",
+      "can pilgrims buy rosaries in velankanni",
+      "shop area inside velankanni shrine campus",
+      "velankanni church gift shop",
+      "where to buy prayer items in velankanni",
+      "souvenir shopping options in velankanni"
+    ],
+    "answer": "Yes, Velankanni has souvenir shops where pilgrims can buy prayer items, rosaries, candles, holy pictures, and devotional gifts."
+  }
+]
